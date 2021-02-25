@@ -1,0 +1,39 @@
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\KursovaiaKovrizhin.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\KursovaiaKovrizhin.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.ClientForm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.RedactorForm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.StartForm.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.pdb
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\KursovaiaKovrizhin.exe.config
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.exe
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.pdb
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\KursovaiaKovrizhin.exe
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\KursovaiaKovrizhin.pdb
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.csprojResolveAssemblyReference.cache
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.ClientForm.resources
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.RedactorForm.resources
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.StartForm.resources
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.Properties.Resources.resources
+F:\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\KursovaiaKovrizhin.exe.config
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.exe
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.pdb
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.ClientForm.resources
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.RedactorForm.resources
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.StartForm.resources
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.Properties.Resources.resources
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\obj\Debug\KursovaiaKovrizhin.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\KursovaiaKovrizhin.exe
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\KursovaiaKovrizhin.pdb
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\mscorlib.dll
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\normidna.nlp
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\normnfc.nlp
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\normnfd.nlp
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\normnfkc.nlp
+C:\Users\Asus\Desktop\KursovaiaKovrizhin\KursovaiaKovrizhin\KursovaiaKovrizhin\bin\Debug\normnfkd.nlp
