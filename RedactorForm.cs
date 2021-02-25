@@ -16,7 +16,7 @@ namespace KursovaiaKovrizhin
         {
             InitializeComponent();
         }
-
+        Model localModel = new Model();
         TestStorage list = new TestStorage();
         Answer newAnswer = new Answer(0);
         TestCreator creator = new TestCreator();
@@ -27,10 +27,10 @@ namespace KursovaiaKovrizhin
         private void btn_Test_Click(object sender, EventArgs e)
         {
             tests.Items.Clear();
-            //foreach (string line in list.ShowTestsList())
-            //{
-            //    tests.Items.Add(line);
-            //}
+            foreach (string line in localModel.GetTestsList())
+            {
+                tests.Items.Add(line);
+            }
         }
 
         private void btn_Results_Click(object sender, EventArgs e)
