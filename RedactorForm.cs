@@ -69,13 +69,7 @@ namespace KursovaiaKovrizhin
 
         private void btn_CreateTest_Click(object sender, EventArgs e)
         {
-            field.Clear();
-            for (int i = 0; i < textField.Lines.Length; i++)
-            {
-                field.Add(string.Format(textField.Lines[i] + "/"));
-            }
-            creator.CreateTest(field, testName.Text);
-            testName.Clear();
+            
         }
 
         private void btn_CreateAnswer_Click(object sender, EventArgs e)

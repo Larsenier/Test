@@ -46,19 +46,7 @@ namespace KursovaiaKovrizhin
                 rewriteFile.WriteLine(text);
             }
         }
-        public void CreateTest(List<string> field, string line)
-        {
-            using (StreamWriter testFile = new StreamWriter(string.Format("{0}.txt", line)))
-            {
-                string text = "";
-                for (int i = 0; i < field.Count; i++)
-                {
-                    text += field[i];
-                }
-                testFile.WriteLine(text);
-            }
-
-        }
+        
         public void CreateTestList(string line)
         {
             using (StreamWriter testsFile = new StreamWriter("Tests.txt", true))
